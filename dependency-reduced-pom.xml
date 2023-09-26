@@ -20,6 +20,9 @@
                 <transformer>
                   <mainClass>ch.heigvd.Main</mainClass>
                 </transformer>
+                <transformer>
+                  <resource>MANIFEST.MF</resource>
+                </transformer>
               </transformers>
             </configuration>
           </execution>
